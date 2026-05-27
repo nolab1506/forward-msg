@@ -1,2 +1,3 @@
-pyTelegramBotAPI
-requests
+pyTelegramBotAPI==4.18.0
+telethon==1.36.0
+
